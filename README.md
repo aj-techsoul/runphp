@@ -1,2 +1,2 @@
 # runphp
-It will run php and install php using npm (Specially coded for electron)
+It will run php and install php using npm (Specially coded for electron-4-php)
