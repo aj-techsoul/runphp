@@ -32,6 +32,7 @@ bat.on('exit', (code) => {
 const PHPServer = require('php-server-manager');
 
 const server = new PHPServer({
+//    php:"php\\php.exe", // for windows
     port: 3000,
     directives: {
         display_errors: 1,
