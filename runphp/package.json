@@ -15,7 +15,7 @@
   "author": "Ajay Kumar",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.7.12"
+    "electron": "^9.1.0"
   },
   "dependencies": {
     "php-server-manager": "^1.2.1"
